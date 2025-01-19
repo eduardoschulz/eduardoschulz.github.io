@@ -1,0 +1,3 @@
+baseURL = 'https://eduardoschulz.github.io/'
+languageCode = 'en-us'
+title = 'hugo-blog-awesome'
